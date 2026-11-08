@@ -1,0 +1,4 @@
+{
+  "aimbot": { "enabled": true, "fov": 6, "smooth": 5 },
+  "esp": { "enabled": true, "box": true, "skeleton": true, "health": true, "distance": true }
+}
